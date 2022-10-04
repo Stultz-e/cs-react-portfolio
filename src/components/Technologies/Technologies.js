@@ -25,8 +25,8 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
-      Back-end To Design
+      I started with a design background and gradually moved to frontend
+      development. I pride myself on being a multidisciplinary developer
     </SectionText>
     <List>
       <ListItem>
@@ -60,7 +60,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>UX Research</ListTitle>
           <ListParagraph>
-            Experience with <br /> User Testing
+            Experience with <br /> user-testing & market research
           </ListParagraph>
         </ListContainer>
       </ListItem>

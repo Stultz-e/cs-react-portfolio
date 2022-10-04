@@ -54,9 +54,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: '365 Connect as UX/UI Designer' },
-  { year: 2019, text: 'GoodWork Web Developer' },
-  { year: 2020, text: 'Pinnacle Design Lab UX/UI Designer' },
-  { year: 2020, text: 'Pinnacle Design Lab Frontend Developer' },
-  { year: 2022, text: 'Started my own platform' },
+  { year: 2016, text: 'Heart of Gold: Graphic Designer' },
+  { year: 2017, text: '365 Connect: UX/UI Designer' },
+  { year: 2018, text: 'GoodWork: Web Developer' },
+  { year: 2019, text: 'Pinnacle Design Lab: UX/UI Designer' },
+  { year: 2020, text: 'Pinnacle Design Lab: Frontend Developer' },
 ];
