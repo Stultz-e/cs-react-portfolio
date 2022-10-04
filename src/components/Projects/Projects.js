@@ -20,25 +20,6 @@ import {
 } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
-const projectsDemo = [
-  {
-    title: 'Project 1',
-    description: 'This is a really really long description about this project.',
-  },
-  {
-    title: 'Project 2',
-    description: 'This is a really really long description about this project.',
-  },
-  {
-    title: 'Project 3',
-    description: 'This is a really really long description about this project.',
-  },
-  {
-    title: 'Project 4',
-    description: 'This is a really really long description about this project.',
-  },
-];
-
 const Projects = () => (
   <Section nopadding id='projects'>
     <SectionDivider />
