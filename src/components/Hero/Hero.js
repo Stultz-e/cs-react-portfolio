@@ -14,7 +14,9 @@ const Hero = (props) => (
       <SectionTitle main center>
         Chris Stulz <br /> React Portfolio
       </SectionTitle>
-      <SectionText>Frontend Projects</SectionText>
+      <SectionText>
+        A showcase of relevant technologies I've worked with
+      </SectionText>
       <Button
         onClick={() =>
           (window.location = 'https://chrisstultzportfolio.netlify.app/')

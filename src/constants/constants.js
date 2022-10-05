@@ -2,9 +2,9 @@ export const projects = [
   {
     title: 'Not Spotify',
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      'This React project uses the Shazam API for a Web App that allows the user to look up top music charts based on location, play music by a given artist.',
     image: '/images/notspotify.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
+    tags: ['React', 'Redux', 'Axios', 'Tailwind', 'Shazam API'],
     source: 'https://notspotifyclone.netlify.app',
     visit: 'https://notspotifyclone.netlify.app',
     id: 0,
@@ -12,9 +12,9 @@ export const projects = [
   {
     title: 'Not Youtube',
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      'This project uses the YouTube API to dynamically search for videos based on genre or user. It Uses the React player & Material UI to build a YT clone.',
     image: '/images/ytrework.png',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['React', 'Material UI', 'Axios', 'React Player'],
     source: 'https://google.com',
     visit: 'https://reactyoutubeproject.netlify.app',
     id: 1,
@@ -22,9 +22,9 @@ export const projects = [
   {
     title: 'Realtor',
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      'This Web App uses the Bayut API to create an exhaustive list of homes and rental properties with advanced filters based on price and location ',
     image: '/images/realestate.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['NextJS', 'ChakraUI', 'RapidAPI'],
     source:
       'https://vercel.com/stultz-e/realestate-next/HZab1WWXnDv5jtu6ERzKwDFwgFqT',
     visit:
@@ -34,22 +34,12 @@ export const projects = [
   {
     title: 'Crypto Stats',
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      'This is a React web app that tracks the daily fluctuating values of some of cryptocurrencies on the market. It also uses a news feed for all things Crypto.',
     image: '/images/cryptosite.png',
-    tags: ['React', 'WebRTC'],
+    tags: ['React', 'Redux', 'Ant Design', 'Chart.js'],
     source: 'https://google.com',
     visit: 'https://cscryptoapi.netlify.app',
     id: 3,
-  },
-  {
-    title: 'Crypto Stats',
-    description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: '/images/cryptosite.png',
-    tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://cscryptoapi.netlify.app',
-    id: 4,
   },
 ];
 

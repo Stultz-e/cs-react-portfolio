@@ -8,7 +8,7 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from './AccomplishmentsStyles';
 
 const data = [
-  { degree: 'Psychology Degree', text: 'Human factors' },
+  { degree: 'Psychology Degree', text: "Bachelor's Degree " },
   { degree: 'Human Computer Interaction', text: 'Graduate Degree' },
   { number: 8, text: 'High traffic sites' },
   { number: 4, text: 'Years of experience' },
