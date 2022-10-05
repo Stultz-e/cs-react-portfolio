@@ -6,7 +6,7 @@ export const projects = [
     image: '/images/notspotify.png',
     tags: ['React', 'Redux', 'Axios', 'Tailwind', 'Shazam API'],
     source: 'https://notspotifyclone.netlify.app',
-    visit: 'https://notspotifyclone.netlify.app',
+    visit: 'https://github.com/Stultz-e/NotSpotify',
     id: 0,
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
     image: '/images/ytrework.png',
     tags: ['React', 'Material UI', 'Axios', 'React Player'],
     source: 'https://reactyoutubeproject.netlify.app',
-    visit: 'https://reactyoutubeproject.netlify.app',
+    visit: 'https://github.com/Stultz-e/NotYoutube',
     id: 1,
   },
   {
@@ -25,10 +25,8 @@ export const projects = [
       'This Web App uses the Bayut API to create an exhaustive list of homes and rental properties with advanced filters based on price and location ',
     image: '/images/realestate.png',
     tags: ['NextJS', 'ChakraUI', 'RapidAPI'],
-    source:
-      'https://vercel.com/stultz-e/realestate-next/HZab1WWXnDv5jtu6ERzKwDFwgFqT',
-    visit:
-      'https://vercel.com/stultz-e/realestate-next/HZab1WWXnDv5jtu6ERzKwDFwgFqT',
+    source: 'https://realestate-next-stultz-e.vercel.app',
+    visit: 'https://github.com/Stultz-e/realestate_next',
     id: 2,
   },
   {
@@ -38,7 +36,7 @@ export const projects = [
     image: '/images/cryptosite.png',
     tags: ['React', 'Redux', 'Ant Design', 'Chart.js'],
     source: 'https://cscryptoapi.netlify.app',
-    visit: 'https://cscryptoapi.netlify.app',
+    visit: 'https://github.com/Stultz-e/CryptoNewz',
     id: 3,
   },
 ];
