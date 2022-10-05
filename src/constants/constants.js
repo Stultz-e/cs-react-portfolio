@@ -15,7 +15,7 @@ export const projects = [
       'This project uses the YouTube API to dynamically search for videos based on genre or user. It Uses the React player & Material UI to build a YT clone.',
     image: '/images/ytrework.png',
     tags: ['React', 'Material UI', 'Axios', 'React Player'],
-    source: 'https://google.com',
+    source: 'https://reactyoutubeproject.netlify.app',
     visit: 'https://reactyoutubeproject.netlify.app',
     id: 1,
   },
@@ -34,10 +34,10 @@ export const projects = [
   {
     title: 'Crypto Stats',
     description:
-      'This is a React web app that tracks the daily fluctuating values of some of cryptocurrencies on the market. It also uses a news feed for all things Crypto.',
+      'This is a React web app that tracks the daily values of crypto on the market. It uses a news feed for all things Crypto.',
     image: '/images/cryptosite.png',
     tags: ['React', 'Redux', 'Ant Design', 'Chart.js'],
-    source: 'https://google.com',
+    source: 'https://cscryptoapi.netlify.app',
     visit: 'https://cscryptoapi.netlify.app',
     id: 3,
   },
