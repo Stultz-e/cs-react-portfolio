@@ -39,6 +39,16 @@ export const projects = [
     visit: 'https://github.com/Stultz-e/CryptoNewz',
     id: 3,
   },
+  {
+    title: 'Mapty',
+    description:
+      'A simple vanilla Javascript web app that works with the open source leaflet map to add running & cycling workouts.',
+    image: '/images/mapty.png',
+    tags: ['JS', 'localStorage', 'Leaflet'],
+    source: 'https://promisesinpractice.netlify.app/',
+    visit: 'https://github.com/Stultz-e/mapty',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
