@@ -49,6 +49,16 @@ export const projects = [
     visit: 'https://github.com/Stultz-e/mapty',
     id: 4,
   },
+  {
+    title: 'Forkify',
+    description:
+      'A recipe app that allows searching for recipes, bookmarking recipes and adding your own. Built using Javascript specifically using the MVC design pattern',
+    image: '/images/forkify-thumb.png',
+    tags: ['JS'],
+    source: 'https://forkify-cs.netlify.app/',
+    visit: 'https://github.com/Stultz-e/forkify-cs',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
